@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+  <meta charset="utf-8">
+  <title>Westown Farm Allotments </title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Westown Farm Allotments are situated 1 mile from Johnstown and 3 miles from Naas in Co. Kildare.
+									Allotment sizes are 10 x 10 metres at a price of €200 for 11 months contract.">
+  <meta name="author" content="Ian Kenny">
+
+
+	<link href="css/bootstrap.min.css" rel="stylesheet">
+	<link href="css/style.css" rel="stylesheet">
+
+  <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+  <!--[if lt IE 9]>
+    <script src="js/html5shiv.js"></script>
+  <![endif]-->
+
+			<!-- Tractor icon -->
+  <link rel="shortcut icon" href="images/icon.ico">
+  
+
+
+</head>
+				<!--I HAVE MADE THIS WEBSITE BY INCORPORATING BOOTSTRAP AND ITS FEATURES -->
+
+			<!-- Spacer element -->
+<div class="row clearfix">
+      <div class="col-md-12 column" >
+        <img src="Images/spacer.png" height="15px">
+      </div>
+    </div>
+			<!-- Header -->
+<header>
+			<!-- Header Logo -->
+
+<div class="container">
+  <div class="row clearfix">
+    <div class="col-md-12 column">
+      <div class="row clearfix">
+        <div class="col-md-12 column">
+          <a href="index.html"><img src="images/Logo2.PNG" class="img-responsive img-rounded" alt="Logo" ></a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+     <div class="row clearfix">
+      <div class="col-md-12 column" >
+        <img src="Images/spacer.png" height="15px">
+      </div>
+    </div>
+
+
+			<!-- Navigation Bar -->
+<nav>
+
+  <div class="container">
+     <div class="row clearfix">
+            <div class="col-md-2">
+                <a  class="btn btn-block btn-success " href="index.html" role="button"><f3>Home<f3></a>
+            </div>
+            <div class="col-md-3">
+                <a  class="btn btn-block btn-success " href="RentAnAllotment.html" role="button"><f3>Rent An Allotment</f3></a>
+            </div>
+             <div class="col-md-2">
+               <a class="btn btn-block btn-success"  href="about.html" role="button"><f3>About us</f3></a>
+            </div>
+            <div class="col-md-3">
+               <a class="btn btn-block btn-success " href="fruitVeg.html" role="button"><f3>Fruit & Veg</f3></a>
+            </div>
+            <div class="col-md-2">
+               <a class="btn btn-block btn-success"  href="gallery.html" role="button"><f3>Gallery</f3></a>
+            </div>
+     </div>
+  </div>
+			<!-- End Nav -->
+</nav>
+			<!--End Header --> 
+</header>
+  
+<div class="row clearfix">
+      <div class="col-md-12 column" >
+        <img src="Images/spacer.png" height="15px">
+      </div>
+    </div>
+
+			<!-- Main Content -->
+<body>
+
+<div class="container">
+	<div class="row clearfix">
+		<div class="col-md-4 column">
+		</div>
+		<div class="col-md-4 column">
+			<h1> <p class="text-center">Gallery </p></h1>
+		</div>
+		<div class="col-md-4 column">
+		</div>
+	</div>
+</div>
+	
+	<div class="row clearfix">
+		<div class="col-md-12 column" >
+			<img src="Images/spacer.png" height="15px">
+		</div>
+    </div>
+	
+<div class="container">
+	<div class="row clearfix">
+		<div class="col-md-6 column">
+			<img src="Images/Image1.JPG" alt="Allotment" style="width:100%" id = "gallery">
+		</div>
+		<div class="col-md-6 column">
+			<img src="Images/Image2.jpg" alt="Allotment" style="width:100%" id = "gallery">
+		</div>
+	</div>
+</div>
+
+<div class="row clearfix">
+		<div class="col-md-12 column" >
+			<img src="Images/spacer.png" height="15px">
+		</div>
+    </div>
+
+<div class="row clearfix">
+		<div class="col-md-12 column" >
+			<img src="Images/spacer.png" height="15px">
+		</div>
+    </div>
+	
+<div class="container">
+	<div class="row clearfix">
+		<div class="col-md-6 column">
+			<img src="Images/Image3.JPG" alt="Allotment" style="width:100%" id = "gallery">
+		</div>
+		<div class="col-md-6 column">
+			<img src="Images/Image6.jpg" alt="Allotment" style="width:100%" id = "gallery">
+		</div>
+	</div>
+</div>
+
+<div class="row clearfix">
+		<div class="col-md-12 column" >
+			<img src="Images/spacer.png" height="15px">
+		</div>
+    </div>
+
+<div class="row clearfix">
+		<div class="col-md-12 column" >
+			<img src="Images/spacer.png" height="15px">
+		</div>
+    </div>
+
+<div class="container">
+	<div class="row clearfix">
+		<div class="col-md-6 column">
+			<img src="Images/Image7.JPG" alt="Allotment" style="width:100%" id = "gallery">
+		</div>
+		<div class="col-md-6 column">
+			<img src="Images/Image8.jpg" alt="Allotment" style="width:100%" id = "gallery">
+		</div>
+	</div>
+</div>
+
+<div class="row clearfix">
+		<div class="col-md-12 column" >
+			<img src="Images/spacer.png" height="15px">
+		</div>
+    </div>
+
+<div class="row clearfix">
+		<div class="col-md-12 column" >
+			<img src="Images/spacer.png" height="15px">
+		</div>
+    </div>
+	
+<div class="container">
+	<div class="row clearfix">
+		<div class="col-md-6 column">
+			<img src="Images/Image9.JPG" alt="Allotment" style="width:100%" id = "gallery">
+		</div>
+		<div class="col-md-6 column">
+			<img src="Images/Image10.jpg" alt="Allotment" style="width:100%" id = "gallery">
+		</div>
+	</div>
+</div>
+
+<div class="row clearfix">
+		<div class="col-md-12 column" >
+			<img src="Images/spacer.png" height="15px">
+		</div>
+</div>
+
+<div class="row clearfix">
+		<div class="col-md-12 column" >
+			<img src="Images/spacer.png" height="15px">
+		</div>
+    </div>
+
+<div class="container">
+	<div class="row clearfix">
+		<div class="col-md-6 column">
+			<img src="Images/Image11.JPG" alt="Allotment" style="width:100%" id = "gallery">
+		</div>
+		<div class="col-md-6 column">
+			<img src="Images/Image12.jpg" alt="Allotment" style="width:100%" id = "gallery">
+		</div>
+	</div>
+</div>
+
+<div class="row clearfix">
+		<div class="col-md-12 column" >
+			<img src="Images/spacer.png" height="15px">
+		</div>
+    </div>
+
+<div class="row clearfix">
+		<div class="col-md-12 column" >
+			<img src="Images/spacer.png" height="15px">
+		</div>
+    </div>
+
+
+	
+<div class="row clearfix">
+		<div class="col-md-12 column" >
+			<img src="Images/spacer.png" height="15px">
+		</div>
+    </div>
+    <!-- end of body -->
+
+
+</body>
+<!-- Footer -->
+
+<footer>
+  <div class="row clearfix">
+      <div class="col-md-12 column" >
+        <img src="Images/spacer2.png" height="15px">
+      </div>
+    </div>
+
+	<div class="container" >
+        <div class="row">
+			<div class="col-md-4 col-sm-4">
+                    <h4><p class="text-center"> Westown Farm Allotments </p></h4>
+                    <hr />
+                        <p><b>Find out how the business started!</b></p>
+                            <ul>
+								<li><span class="glyphicon glyphicon-search"></span><a href="about.html"> About</a></li>
+								<li><img src="Images/twitter.png" height = "18px" id ="twitter"><a href="https://twitter.com/wfallotments">Twitter </a>
+                            </ul> 
+            </div>
+
+            <div class="col-md-4 col-sm-4">
+                    <h4><p class="text-center">Our Site </p></h4>
+                        <hr />
+							<ul>
+								 <li><span class="glyphicon glyphicon-home"></span><a href="index.html"> Home</a></li>
+								 <li><span class="glyphicon glyphicon-euro"></span><a href="RentAnAllotment.html"> Rent An Allotment</a></li>
+								 <li><span class="glyphicon glyphicon-search"></span><a href="about.html"> About</a></li>
+								 <li><span class="glyphicon glyphicon-tree-deciduous"></span><a href="FruitVeg.html"> Fruit & Veg</a></li>
+								 <li><span class="glyphicon glyphicon-picture"></span><a href="Gallery.html"> Gallery</a></li>
+                           </ul>
+            </div>        
+
+                       
+
+            <div class="col-md-4 col-sm-4">
+                    <h4><p class="text-center">Get In Touch </p></h4>
+                        <hr />
+							<div class="address">
+								<p><b> Questions? Contact us at any time!</b> </p>
+								<p><span class="glyphicon glyphicon-earphone"></span> Call: 0874104485</p>
+								<p><span class="glyphicon glyphicon-envelope"></span><a href = "mailto:wfallotments@gmail.com"> wfallotments@gmail.com </a></p>
+							</div>
+					<div id="calendar">
+						<p id="day"></p>
+						<p id="date"></p>
+						<p id="month-year"></p>
+					</div>
+            </div>
+		</div>
+	</div>
+        
+    <hr />    
+     </footer>
+<script type="text/javascript" src="js/script.js"></script>
+      <!-- Footer ends -->  
+
+</html>
