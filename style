@@ -1,0 +1,92 @@
+/* For this website I have used bootstrap.css for the most part and incorporated the features and components it has.
+The Javascript component in the Fruit and Veg section was done using bootstrap */
+
+/* Below is my own code. As a lot of the bootstrap themes fit with my original prototype I didn't have to make too many changes */
+
+body { background-color: rgb(195, 240, 195);
+
+}
+
+footer { background-color: rgb(92, 184, 92);
+
+
+}
+
+f3 { 
+
+    font: 18px sans-serif; 
+    font-weight: bold;
+}
+
+a {
+  color: rgb(16, 92, 179);
+  text-decoration: none;
+  font-weight: bold;
+}
+
+p {font-family:Verdana, Geneva, sans-serif;
+   
+}
+
+h3 {font-family: Calisto MT;
+	border-bottom: 2px solid black;
+	box-shadow: 0.05em 0.05em  #6B5635;}
+
+h1 {font-family: Calisto MT;
+	border-bottom: 2px solid black;
+	box-shadow: 0.05em 0.05em  #6B5635;
+	}
+	
+#google { margin-top: 15%;
+		border: 2px solid black;
+		}	
+		
+#peppers {transform: rotate(-15deg);
+		margin-top: 10%;
+		}
+		
+#eggplant{ height: 20em;
+		margin-left: 30%;
+		}
+#celery { margin-top: 5%;
+		}
+
+ul { 
+	list-style-type: none;
+	}
+
+#accordion { margin-top:10%;
+		}
+#gallery {border: 5px solid rgb(157, 120, 71);
+		}
+
+
+/* calendar */
+#calendar{
+  width: 60%;
+  background: linear-gradient(rgb(157, 120, 71), rgb(111, 77, 13));
+  box-shadow: 0 4px 4px 0 rgba(50, 50, 50, 0.4); 
+  
+		}
+#calendar p{
+  font-family: Calisto,Verdana, Arial, sans-serif;
+  margin: 0;
+  color: #fff;
+  text-align: center;
+  display: inline;
+  margin-left: 1%;
+		}
+#day{
+  font-size: 1em;
+  font-weight: bold;
+}
+#month-year{
+  font-size: 1em;
+  font-weight: bold;
+		}
+#date{
+  font-size: 1em;
+  padding-top: 1em;
+  padding-bottom: 0;
+  font-weight: bold;
+		}
